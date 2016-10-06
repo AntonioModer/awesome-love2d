@@ -16,7 +16,8 @@ A categorized community-driven collection of high-quality awesome Löve librarie
   - [Tweening](#tweening)
   - [UI](#ui)
   - [Utilities](#utilities)
-  - [Development](development)
+  - [Development](#development)
+  - [lightAndShadows](#lightAndShadows)
 
 ## Camera
 
@@ -105,7 +106,7 @@ A categorized community-driven collection of high-quality awesome Löve librarie
 
 * [FPSGraph](https://github.com/icrawler/FPSGraph) - A small FPS graphing utility for LOVE
 
-# lightAndShadows
+## lightAndShadows
 * https://github.com/Ranguna/light
 * https://love2d.org/forums/viewtopic.php?f=5&t=82525
 * https://love2d.org/forums/viewtopic.php?f=5&t=80751
