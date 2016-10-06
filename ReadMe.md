@@ -105,6 +105,29 @@ A categorized community-driven collection of high-quality awesome Löve librarie
 
 * [FPSGraph](https://github.com/icrawler/FPSGraph) - A small FPS graphing utility for LOVE
 
+# lightAndShadows
+* https://github.com/Ranguna/light
+* https://love2d.org/forums/viewtopic.php?f=5&t=82525
+* https://love2d.org/forums/viewtopic.php?f=5&t=80751
+* https://love2d.org/forums/viewtopic.php?f=5&t=81770
+* https://www.love2d.org/forums/viewtopic.php?f=5&t=77143
+* https://www.love2d.org/forums/viewtopic.php?f=5&t=77418
+* https://love2d.org/forums/viewtopic.php?f=5&t=78998
+* http://love2d.org/forums/viewtopic.php?f=5&t=77500&p=164839&hilit=shader#p164839
+* https://love2d.org/forums/viewtopic.php?f=5&t=1871&start=10
+* https://love2d.org/forums/viewtopic.php?f=5&t=53347
+* https://love2d.org/forums/viewtopic.php?f=3&t=81582
+* https://love2d.org/forums/viewtopic.php?f=4&t=80238
+* https://love2d.org/forums/viewtopic.php?f=4&t=80420
+* https://love2d.org/forums/viewtopic.php?f=5&t=39631
+* https://love2d.org/forums/viewtopic.php?f=5&t=77143
+* https://love2d.org/forums/viewtopic.php?f=5&t=77418
+* https://love2d.org/forums/viewtopic.php?f=5&t=77500
+* https://love2d.org/forums/viewtopic.php?f=5&t=78393
+* https://love2d.org/forums/viewtopic.php?f=5&t=78726
+* https://love2d.org/forums/viewtopic.php?t=77143
+* https://love2d.org/forums/viewtopic.php?f=5&t=82785
+
 # Contributing
 Please see [CONTRIBUTING](https://github.com/JanWerder/awesome-love2d/blob/master/CONTRIBUTING.md) for details.
 
