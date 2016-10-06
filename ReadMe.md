@@ -6,10 +6,10 @@ A categorized community-driven collection of high-quality awesome Löve librarie
 
 - [Awesome Love2D](#awesome-unity)
   - [Camera](#camera)
-  - [Helper Libraries](#Helper Libraries)
+  - [Helper Libraries](#helperlibraries)
   - [Input](#input)
   - [Networking](#networking)
-  - [Object Orientation](#Object Orientation)
+  - [Object Orientation](#objectorientation)
   - [Physics](#physics)
   - [Serialisation](#serialisation)
   - [Shaders](#shaders)
@@ -17,7 +17,7 @@ A categorized community-driven collection of high-quality awesome Löve librarie
   - [UI](#ui)
   - [Utilities](#utilities)
   - [Development](#development)
-  - [lightAndShadows](#lightAndShadows)
+  - [lightAndShadows](#lightandshadows)
 
 ## Camera
 
